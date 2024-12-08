@@ -1,4 +1,3 @@
-import { Children } from "react";
 import styles from "./PostModelo.module.css";
 
 export default function PostModelo({ fotoCapa, titulo, children }) {
